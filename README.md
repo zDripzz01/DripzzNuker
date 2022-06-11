@@ -1,4 +1,4 @@
-# Vest - Declarative validations framework
+Dripzz Nuker
 
 [Dripzz](http://dripzz.cf)
 
